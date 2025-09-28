@@ -1,4 +1,8 @@
-## Nextjs Template
+# Next.js Template
+
+To create a new project using this template:
+
+```bash
 npx degit azulyndev/nextjs-template my-new-project
 cd my-new-project
 npm install
